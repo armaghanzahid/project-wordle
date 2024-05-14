@@ -178,7 +178,7 @@ h1 {
 
 .happy.banner {
   background: var(--color-success);
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .sad.banner {
   background: var(--color-error);
